@@ -1,5 +1,5 @@
 current directory: /Users/s.kiyosu/rails-project/sample_app/vendor/bundle/ruby/2.6.0/gems/byebug-9.0.6/ext/byebug
-/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20250702-87482-1p1fato.rb extconf.rb
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20250703-51244-1hbl6w5.rb extconf.rb
 creating Makefile
 
 current directory: /Users/s.kiyosu/rails-project/sample_app/vendor/bundle/ruby/2.6.0/gems/byebug-9.0.6/ext/byebug
@@ -1012,4 +1012,4 @@ ld: warning: search path '/AppleInternal/Library/BuildRoots/5ad84cef-5dac-11ee-9
 
 current directory: /Users/s.kiyosu/rails-project/sample_app/vendor/bundle/ruby/2.6.0/gems/byebug-9.0.6/ext/byebug
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20250702-87482-1y6pu1x/byebug
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20250703-51244-47sv7c/byebug

@@ -1,5 +1,5 @@
 current directory: /Users/s.kiyosu/rails-project/sample_app/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.6.5/ext/websocket-driver
-/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20250702-87482-ua84ey.rb extconf.rb
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20250703-51244-gj5uyr.rb extconf.rb
 creating Makefile
 
 current directory: /Users/s.kiyosu/rails-project/sample_app/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.6.5/ext/websocket-driver
@@ -14,4 +14,4 @@ ld: warning: search path '/AppleInternal/Library/BuildRoots/5ad84cef-5dac-11ee-9
 
 current directory: /Users/s.kiyosu/rails-project/sample_app/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.6.5/ext/websocket-driver
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20250702-87482-olzwe7
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20250703-51244-11zwpi7
