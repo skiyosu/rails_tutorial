@@ -1,5 +1,5 @@
 current directory: /Users/s.kiyosu/rails-project/sample_app/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
-/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20250703-51244-ddzh23.rb extconf.rb
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20250709-38771-1o0fvqo.rb extconf.rb
 creating Makefile
 
 current directory: /Users/s.kiyosu/rails-project/sample_app/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
@@ -45,4 +45,4 @@ ld: warning: search path '/AppleInternal/Library/BuildRoots/5ad84cef-5dac-11ee-9
 
 current directory: /Users/s.kiyosu/rails-project/sample_app/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20250703-51244-h6w237/skiptrace/internal
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20250709-38771-1ynjssd/skiptrace/internal

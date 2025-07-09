@@ -1,5 +1,5 @@
 current directory: /Users/s.kiyosu/rails-project/sample_app/vendor/bundle/ruby/2.6.0/gems/puma-3.9.1/ext/puma_http11
-/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20250703-51244-su85qc.rb extconf.rb
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20250709-38771-notip7.rb extconf.rb
 checking for BIO_read() in -lcrypto... no
 checking for BIO_read() in -llibeay32... no
 creating Makefile
@@ -20,4 +20,4 @@ ld: warning: search path '/AppleInternal/Library/BuildRoots/5ad84cef-5dac-11ee-9
 
 current directory: /Users/s.kiyosu/rails-project/sample_app/vendor/bundle/ruby/2.6.0/gems/puma-3.9.1/ext/puma_http11
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 puma_http11.bundle ./.gem.20250703-51244-10i1u7j/puma
+/usr/bin/install -c -m 0755 puma_http11.bundle ./.gem.20250709-38771-1u0yf6y/puma

@@ -1,15 +1,15 @@
 # -*- encoding: utf-8 -*-
-# stub: tilt 2.6.0 ruby lib
+# stub: tilt 2.6.1 ruby lib
 
 Gem::Specification.new do |s|
   s.name = "tilt".freeze
-  s.version = "2.6.0"
+  s.version = "2.6.1"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0".freeze) if s.respond_to? :required_rubygems_version=
   s.metadata = { "bug_tracker_uri" => "https://github.com/jeremyevans/tilt/issues", "changelog_uri" => "https://github.com/jeremyevans/tilt/blob/master/CHANGELOG.md", "mailing_list_uri" => "https://github.com/jeremyevans/tilt/discussions", "source_code_uri" => "https://github.com/jeremyevans/tilt" } if s.respond_to? :metadata=
   s.require_paths = ["lib".freeze]
   s.authors = ["Ryan Tomayko".freeze, "Magnus Holm".freeze, "Jeremy Evans".freeze]
-  s.date = "2025-01-13"
+  s.date = "1980-01-02"
   s.description = "Generic interface to multiple Ruby template engines".freeze
   s.email = "code@jeremyevans.net".freeze
   s.executables = ["tilt".freeze]

@@ -1,5 +1,5 @@
 current directory: /Users/s.kiyosu/rails-project/sample_app/vendor/bundle/ruby/2.6.0/gems/sqlite3-1.3.13/ext/sqlite3
-/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20250703-51244-o4qys.rb extconf.rb
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20250709-38771-cp8u4i.rb extconf.rb
 checking for sqlite3.h... yes
 checking for pthread_create() in -lpthread... yes
 checking for sqlite3_libversion_number() in -lsqlite3... yes
@@ -763,4 +763,4 @@ ld: warning: search path '/AppleInternal/Library/BuildRoots/5ad84cef-5dac-11ee-9
 
 current directory: /Users/s.kiyosu/rails-project/sample_app/vendor/bundle/ruby/2.6.0/gems/sqlite3-1.3.13/ext/sqlite3
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 sqlite3_native.bundle ./.gem.20250703-51244-u1brfu/sqlite3
+/usr/bin/install -c -m 0755 sqlite3_native.bundle ./.gem.20250709-38771-12l5th7/sqlite3
